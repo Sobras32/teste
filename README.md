@@ -4,7 +4,7 @@ _Checkout, **Tela de produto**, Catálogo, Home com banner_
 
 **Checkout, _Tela de produto_, Catálogo, Homecom banner**
 
-####### Melhorias do projeto:
+###### Melhorias do projeto:
 
 __Melhoria 1__, _Melhoria 2_
 
